@@ -4,10 +4,10 @@
 - yarn install
 - yarn run build
 
-![0](https://github.com/Snake174/SocialNetFrontend/tree/main/screenshots/0.jpg)
-![1](https://github.com/Snake174/SocialNetFrontend/tree/main/screenshots/1.jpg)
-![2](https://github.com/Snake174/SocialNetFrontend/tree/main/screenshots/2.jpg)
-![3](https://github.com/Snake174/SocialNetFrontend/tree/main/screenshots/3.jpg)
+![0](/screenshots/0.jpg)
+![1](/screenshots/1.jpg)
+![2](/screenshots/2.jpg)
+![3](/screenshots/3.jpg)
 
 Fix log:
  - Бесконечный поллинг сообщений
